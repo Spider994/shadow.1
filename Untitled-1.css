@@ -959,14 +959,6 @@ body {
     animation-delay: 4s;
     transition: 1s;
 }
-@keyframes texth2{
-    0%{
-        opacity: 0;
-    }
-    100%{
-        opacity: 1;
-    }
-}
 .boxMail .boxMail-container .card2 h5{
     font-family: 'Dancing Script', cursive;
     padding: 0px 20px;
